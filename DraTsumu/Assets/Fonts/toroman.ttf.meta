@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0a07138588d02f541a5fd14b158d7a87
+timeCreated: 1511579275
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AnnyantRoman
+  fontNames:
+  - AnnyantRoman
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

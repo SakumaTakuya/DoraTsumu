@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f0ed7a0446bc83d4daaae4fe506afe4b
+timeCreated: 1503801437
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _eraseParticle: {fileID: 1340684543901296, guid: 6be6910ec3c6eb54b896b157bcf4ea5a,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
